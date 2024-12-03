@@ -14,7 +14,9 @@
 </table>
 
 <div align="center">
+
 **[Unity ML-Agents ToolKit](https://unity-technologies.github.io/ml-agents/) Swipe Brick Breaker Clone Sample-Play**
+
 </div>
 
 ---
